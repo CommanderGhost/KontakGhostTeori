@@ -1,0 +1,182 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Projects\mobile\mobile\SqlLiteKotlinTJ-master\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from E:\Projects\mobile\mobile\SqlLiteKotlinTJ-master\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from E:\Projects\mobile\mobile\SqlLiteKotlinTJ-master\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from E:\Projects\mobile\mobile\SqlLiteKotlinTJ-master\app\src\main\AndroidManifest.xml:2:1-25:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\Commader Ghost\.gradle\caches\transforms-2\files-2.1\8f354bb3f4bac18df277afc2fbecbefa\design-28.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Commader Ghost\.gradle\caches\transforms-2\files-2.1\53f194ffa60e46383cdd84aa060b714e\appcompat-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Commader Ghost\.gradle\caches\transforms-2\files-2.1\866e926635d7389f6b66b3491b53f608\constraint-layout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Commader Ghost\.gradle\caches\transforms-2\files-2.1\642869681d57e189f393242f98800679\support-v4-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Commader Ghost\.gradle\caches\transforms-2\files-2.1\d809d23fd6770d304c30d6ec003e8399\support-fragment-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Commader Ghost\.gradle\caches\transforms-2\files-2.1\c9d35f67978c88e4530abce6de752507\animated-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Commader Ghost\.gradle\caches\transforms-2\files-2.1\0dda742af683596e0afd1aada22bd978\recyclerview-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Commader Ghost\.gradle\caches\transforms-2\files-2.1\66095b7de7f48464b29d6f5b8c6e2e3d\support-core-ui-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Commader Ghost\.gradle\caches\transforms-2\files-2.1\a5ca8a12bb4d4f6a32c6089a172ebf81\support-core-utils-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Commader Ghost\.gradle\caches\transforms-2\files-2.1\9c3a2b657bb2a8676b53fc1a5e2cdb90\support-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Commader Ghost\.gradle\caches\transforms-2\files-2.1\732701ba5f5905069cb64bb7a88ecd18\transition-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Commader Ghost\.gradle\caches\transforms-2\files-2.1\2259b61d88da6bfe32badaac9afec795\support-media-compat-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Commader Ghost\.gradle\caches\transforms-2\files-2.1\81d16414305359143eaf4549cd73784e\loader-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Commader Ghost\.gradle\caches\transforms-2\files-2.1\570738cec1d56acd735909fff8fab026\viewpager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Commader Ghost\.gradle\caches\transforms-2\files-2.1\9e9bd84ee00cd8f73b491a85465364a1\coordinatorlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Commader Ghost\.gradle\caches\transforms-2\files-2.1\1ac7bb53628511c13b8a94236eabc85a\drawerlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Commader Ghost\.gradle\caches\transforms-2\files-2.1\e06fbea9e2264f7e7cd735e751442afd\slidingpanelayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Commader Ghost\.gradle\caches\transforms-2\files-2.1\6489a0ac79127c83dae623e735f6a74d\customview-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Commader Ghost\.gradle\caches\transforms-2\files-2.1\91bcc6eff2308b84e144c9b1fed9d54f\swiperefreshlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Commader Ghost\.gradle\caches\transforms-2\files-2.1\4ef83f9c91fa040f1accff44b0bba601\asynclayoutinflater-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Commader Ghost\.gradle\caches\transforms-2\files-2.1\901f41c49689179071c61cdeca0069ca\support-compat-28.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Commader Ghost\.gradle\caches\transforms-2\files-2.1\2050d44e4f5eae03eb14fe6f748ddda5\versionedparcelable-28.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Commader Ghost\.gradle\caches\transforms-2\files-2.1\2121a997bb3d4d8c32df83c2990c5552\cursoradapter-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Commader Ghost\.gradle\caches\transforms-2\files-2.1\e49ce12e276cd66c425a459c90d12084\cardview-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Commader Ghost\.gradle\caches\transforms-2\files-2.1\564858d5f3dd49f0cca4f64c0a9db852\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Commader Ghost\.gradle\caches\transforms-2\files-2.1\2505dfc50405dfcb9d521b74ac56957a\documentfile-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Commader Ghost\.gradle\caches\transforms-2\files-2.1\5b7c3b9194130fe111cc483940f7fbe7\localbroadcastmanager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Commader Ghost\.gradle\caches\transforms-2\files-2.1\ad0ecb5bf8037c7de61fa1f88e1aefaa\print-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Commader Ghost\.gradle\caches\transforms-2\files-2.1\03ce9d36736d0cc7a98cd90fba52e869\viewmodel-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Commader Ghost\.gradle\caches\transforms-2\files-2.1\c231d407399a04a6a8c5bb6647fb968e\interpolator-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Commader Ghost\.gradle\caches\transforms-2\files-2.1\84fbf1512ba0c36bcdaac3bafbf6dea4\livedata-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Commader Ghost\.gradle\caches\transforms-2\files-2.1\745a7bd5fc84f2607323644626a09c53\livedata-core-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Commader Ghost\.gradle\caches\transforms-2\files-2.1\149aaedcf6ac7fb79a51dba5cc6dd3b7\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\Projects\mobile\mobile\SqlLiteKotlinTJ-master\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from E:\Projects\mobile\mobile\SqlLiteKotlinTJ-master\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from E:\Projects\mobile\mobile\SqlLiteKotlinTJ-master\app\src\main\AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from E:\Projects\mobile\mobile\SqlLiteKotlinTJ-master\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from E:\Projects\mobile\mobile\SqlLiteKotlinTJ-master\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Projects\mobile\mobile\SqlLiteKotlinTJ-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\Projects\mobile\mobile\SqlLiteKotlinTJ-master\app\src\main\AndroidManifest.xml
+		ADDED from E:\Projects\mobile\mobile\SqlLiteKotlinTJ-master\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from E:\Projects\mobile\mobile\SqlLiteKotlinTJ-master\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from E:\Projects\mobile\mobile\SqlLiteKotlinTJ-master\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from E:\Projects\mobile\mobile\SqlLiteKotlinTJ-master\app\src\main\AndroidManifest.xml
+		ADDED from E:\Projects\mobile\mobile\SqlLiteKotlinTJ-master\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from E:\Projects\mobile\mobile\SqlLiteKotlinTJ-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Projects\mobile\mobile\SqlLiteKotlinTJ-master\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from E:\Projects\mobile\mobile\SqlLiteKotlinTJ-master\app\src\main\AndroidManifest.xml:6:5-23:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\Commader Ghost\.gradle\caches\transforms-2\files-2.1\8f354bb3f4bac18df277afc2fbecbefa\design-28.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\Commader Ghost\.gradle\caches\transforms-2\files-2.1\8f354bb3f4bac18df277afc2fbecbefa\design-28.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Commader Ghost\.gradle\caches\transforms-2\files-2.1\866e926635d7389f6b66b3491b53f608\constraint-layout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Commader Ghost\.gradle\caches\transforms-2\files-2.1\866e926635d7389f6b66b3491b53f608\constraint-layout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Commader Ghost\.gradle\caches\transforms-2\files-2.1\901f41c49689179071c61cdeca0069ca\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Commader Ghost\.gradle\caches\transforms-2\files-2.1\901f41c49689179071c61cdeca0069ca\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Commader Ghost\.gradle\caches\transforms-2\files-2.1\2050d44e4f5eae03eb14fe6f748ddda5\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Commader Ghost\.gradle\caches\transforms-2\files-2.1\2050d44e4f5eae03eb14fe6f748ddda5\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Commader Ghost\.gradle\caches\transforms-2\files-2.1\901f41c49689179071c61cdeca0069ca\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from E:\Projects\mobile\mobile\SqlLiteKotlinTJ-master\app\src\main\AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from E:\Projects\mobile\mobile\SqlLiteKotlinTJ-master\app\src\main\AndroidManifest.xml:9:9-41
+	android:roundIcon
+		ADDED from E:\Projects\mobile\mobile\SqlLiteKotlinTJ-master\app\src\main\AndroidManifest.xml:10:9-54
+	android:icon
+		ADDED from E:\Projects\mobile\mobile\SqlLiteKotlinTJ-master\app\src\main\AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from E:\Projects\mobile\mobile\SqlLiteKotlinTJ-master\app\src\main\AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from E:\Projects\mobile\mobile\SqlLiteKotlinTJ-master\app\src\main\AndroidManifest.xml:12:9-40
+activity#tj.belajar.tj.MainActivity
+ADDED from E:\Projects\mobile\mobile\SqlLiteKotlinTJ-master\app\src\main\AndroidManifest.xml:13:9-19:20
+	android:name
+		ADDED from E:\Projects\mobile\mobile\SqlLiteKotlinTJ-master\app\src\main\AndroidManifest.xml:13:19-60
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\Projects\mobile\mobile\SqlLiteKotlinTJ-master\app\src\main\AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from E:\Projects\mobile\mobile\SqlLiteKotlinTJ-master\app\src\main\AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from E:\Projects\mobile\mobile\SqlLiteKotlinTJ-master\app\src\main\AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Projects\mobile\mobile\SqlLiteKotlinTJ-master\app\src\main\AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from E:\Projects\mobile\mobile\SqlLiteKotlinTJ-master\app\src\main\AndroidManifest.xml:17:27-74
+activity#tj.belajar.tj.NoteActivity
+ADDED from E:\Projects\mobile\mobile\SqlLiteKotlinTJ-master\app\src\main\AndroidManifest.xml:20:9-22:20
+	android:label
+		ADDED from E:\Projects\mobile\mobile\SqlLiteKotlinTJ-master\app\src\main\AndroidManifest.xml:21:13-47
+	android:name
+		ADDED from E:\Projects\mobile\mobile\SqlLiteKotlinTJ-master\app\src\main\AndroidManifest.xml:20:19-60
+uses-sdk
+INJECTED from E:\Projects\mobile\mobile\SqlLiteKotlinTJ-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Projects\mobile\mobile\SqlLiteKotlinTJ-master\app\src\main\AndroidManifest.xml
+INJECTED from E:\Projects\mobile\mobile\SqlLiteKotlinTJ-master\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\Commader Ghost\.gradle\caches\transforms-2\files-2.1\8f354bb3f4bac18df277afc2fbecbefa\design-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\Commader Ghost\.gradle\caches\transforms-2\files-2.1\8f354bb3f4bac18df277afc2fbecbefa\design-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Commader Ghost\.gradle\caches\transforms-2\files-2.1\53f194ffa60e46383cdd84aa060b714e\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Commader Ghost\.gradle\caches\transforms-2\files-2.1\53f194ffa60e46383cdd84aa060b714e\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Commader Ghost\.gradle\caches\transforms-2\files-2.1\866e926635d7389f6b66b3491b53f608\constraint-layout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Commader Ghost\.gradle\caches\transforms-2\files-2.1\866e926635d7389f6b66b3491b53f608\constraint-layout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Commader Ghost\.gradle\caches\transforms-2\files-2.1\642869681d57e189f393242f98800679\support-v4-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Commader Ghost\.gradle\caches\transforms-2\files-2.1\642869681d57e189f393242f98800679\support-v4-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Commader Ghost\.gradle\caches\transforms-2\files-2.1\d809d23fd6770d304c30d6ec003e8399\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Commader Ghost\.gradle\caches\transforms-2\files-2.1\d809d23fd6770d304c30d6ec003e8399\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Commader Ghost\.gradle\caches\transforms-2\files-2.1\c9d35f67978c88e4530abce6de752507\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Commader Ghost\.gradle\caches\transforms-2\files-2.1\c9d35f67978c88e4530abce6de752507\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Commader Ghost\.gradle\caches\transforms-2\files-2.1\0dda742af683596e0afd1aada22bd978\recyclerview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Commader Ghost\.gradle\caches\transforms-2\files-2.1\0dda742af683596e0afd1aada22bd978\recyclerview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Commader Ghost\.gradle\caches\transforms-2\files-2.1\66095b7de7f48464b29d6f5b8c6e2e3d\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Commader Ghost\.gradle\caches\transforms-2\files-2.1\66095b7de7f48464b29d6f5b8c6e2e3d\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Commader Ghost\.gradle\caches\transforms-2\files-2.1\a5ca8a12bb4d4f6a32c6089a172ebf81\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Commader Ghost\.gradle\caches\transforms-2\files-2.1\a5ca8a12bb4d4f6a32c6089a172ebf81\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Commader Ghost\.gradle\caches\transforms-2\files-2.1\9c3a2b657bb2a8676b53fc1a5e2cdb90\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Commader Ghost\.gradle\caches\transforms-2\files-2.1\9c3a2b657bb2a8676b53fc1a5e2cdb90\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Commader Ghost\.gradle\caches\transforms-2\files-2.1\732701ba5f5905069cb64bb7a88ecd18\transition-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Commader Ghost\.gradle\caches\transforms-2\files-2.1\732701ba5f5905069cb64bb7a88ecd18\transition-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Commader Ghost\.gradle\caches\transforms-2\files-2.1\2259b61d88da6bfe32badaac9afec795\support-media-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Commader Ghost\.gradle\caches\transforms-2\files-2.1\2259b61d88da6bfe32badaac9afec795\support-media-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Commader Ghost\.gradle\caches\transforms-2\files-2.1\81d16414305359143eaf4549cd73784e\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Commader Ghost\.gradle\caches\transforms-2\files-2.1\81d16414305359143eaf4549cd73784e\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Commader Ghost\.gradle\caches\transforms-2\files-2.1\570738cec1d56acd735909fff8fab026\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Commader Ghost\.gradle\caches\transforms-2\files-2.1\570738cec1d56acd735909fff8fab026\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Commader Ghost\.gradle\caches\transforms-2\files-2.1\9e9bd84ee00cd8f73b491a85465364a1\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Commader Ghost\.gradle\caches\transforms-2\files-2.1\9e9bd84ee00cd8f73b491a85465364a1\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Commader Ghost\.gradle\caches\transforms-2\files-2.1\1ac7bb53628511c13b8a94236eabc85a\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Commader Ghost\.gradle\caches\transforms-2\files-2.1\1ac7bb53628511c13b8a94236eabc85a\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Commader Ghost\.gradle\caches\transforms-2\files-2.1\e06fbea9e2264f7e7cd735e751442afd\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Commader Ghost\.gradle\caches\transforms-2\files-2.1\e06fbea9e2264f7e7cd735e751442afd\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Commader Ghost\.gradle\caches\transforms-2\files-2.1\6489a0ac79127c83dae623e735f6a74d\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Commader Ghost\.gradle\caches\transforms-2\files-2.1\6489a0ac79127c83dae623e735f6a74d\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Commader Ghost\.gradle\caches\transforms-2\files-2.1\91bcc6eff2308b84e144c9b1fed9d54f\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Commader Ghost\.gradle\caches\transforms-2\files-2.1\91bcc6eff2308b84e144c9b1fed9d54f\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Commader Ghost\.gradle\caches\transforms-2\files-2.1\4ef83f9c91fa040f1accff44b0bba601\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Commader Ghost\.gradle\caches\transforms-2\files-2.1\4ef83f9c91fa040f1accff44b0bba601\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Commader Ghost\.gradle\caches\transforms-2\files-2.1\901f41c49689179071c61cdeca0069ca\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Commader Ghost\.gradle\caches\transforms-2\files-2.1\901f41c49689179071c61cdeca0069ca\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Commader Ghost\.gradle\caches\transforms-2\files-2.1\2050d44e4f5eae03eb14fe6f748ddda5\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Commader Ghost\.gradle\caches\transforms-2\files-2.1\2050d44e4f5eae03eb14fe6f748ddda5\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Commader Ghost\.gradle\caches\transforms-2\files-2.1\2121a997bb3d4d8c32df83c2990c5552\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Commader Ghost\.gradle\caches\transforms-2\files-2.1\2121a997bb3d4d8c32df83c2990c5552\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Commader Ghost\.gradle\caches\transforms-2\files-2.1\e49ce12e276cd66c425a459c90d12084\cardview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Commader Ghost\.gradle\caches\transforms-2\files-2.1\e49ce12e276cd66c425a459c90d12084\cardview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Commader Ghost\.gradle\caches\transforms-2\files-2.1\564858d5f3dd49f0cca4f64c0a9db852\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Commader Ghost\.gradle\caches\transforms-2\files-2.1\564858d5f3dd49f0cca4f64c0a9db852\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Commader Ghost\.gradle\caches\transforms-2\files-2.1\2505dfc50405dfcb9d521b74ac56957a\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Commader Ghost\.gradle\caches\transforms-2\files-2.1\2505dfc50405dfcb9d521b74ac56957a\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Commader Ghost\.gradle\caches\transforms-2\files-2.1\5b7c3b9194130fe111cc483940f7fbe7\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Commader Ghost\.gradle\caches\transforms-2\files-2.1\5b7c3b9194130fe111cc483940f7fbe7\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Commader Ghost\.gradle\caches\transforms-2\files-2.1\ad0ecb5bf8037c7de61fa1f88e1aefaa\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Commader Ghost\.gradle\caches\transforms-2\files-2.1\ad0ecb5bf8037c7de61fa1f88e1aefaa\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Commader Ghost\.gradle\caches\transforms-2\files-2.1\03ce9d36736d0cc7a98cd90fba52e869\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Commader Ghost\.gradle\caches\transforms-2\files-2.1\03ce9d36736d0cc7a98cd90fba52e869\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Commader Ghost\.gradle\caches\transforms-2\files-2.1\c231d407399a04a6a8c5bb6647fb968e\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Commader Ghost\.gradle\caches\transforms-2\files-2.1\c231d407399a04a6a8c5bb6647fb968e\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Commader Ghost\.gradle\caches\transforms-2\files-2.1\84fbf1512ba0c36bcdaac3bafbf6dea4\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Commader Ghost\.gradle\caches\transforms-2\files-2.1\84fbf1512ba0c36bcdaac3bafbf6dea4\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Commader Ghost\.gradle\caches\transforms-2\files-2.1\745a7bd5fc84f2607323644626a09c53\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Commader Ghost\.gradle\caches\transforms-2\files-2.1\745a7bd5fc84f2607323644626a09c53\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Commader Ghost\.gradle\caches\transforms-2\files-2.1\149aaedcf6ac7fb79a51dba5cc6dd3b7\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Commader Ghost\.gradle\caches\transforms-2\files-2.1\149aaedcf6ac7fb79a51dba5cc6dd3b7\runtime-1.1.1\AndroidManifest.xml:20:5-44
+INJECTED from E:\Projects\mobile\mobile\SqlLiteKotlinTJ-master\app\src\main\AndroidManifest.xml
+INJECTED from E:\Projects\mobile\mobile\SqlLiteKotlinTJ-master\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\Projects\mobile\mobile\SqlLiteKotlinTJ-master\app\src\main\AndroidManifest.xml
+		ADDED from E:\Projects\mobile\mobile\SqlLiteKotlinTJ-master\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Projects\mobile\mobile\SqlLiteKotlinTJ-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Projects\mobile\mobile\SqlLiteKotlinTJ-master\app\src\main\AndroidManifest.xml
+		ADDED from E:\Projects\mobile\mobile\SqlLiteKotlinTJ-master\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Projects\mobile\mobile\SqlLiteKotlinTJ-master\app\src\main\AndroidManifest.xml
